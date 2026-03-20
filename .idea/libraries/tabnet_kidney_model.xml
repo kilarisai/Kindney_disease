@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tabnet_kidney_model">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tabnet_kidney_model.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
