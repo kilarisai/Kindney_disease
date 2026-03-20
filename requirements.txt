@@ -5,3 +5,4 @@ pytorch-tabnet
 scikit-learn
 torch
 gunicorn
+pandas
