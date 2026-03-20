@@ -30,23 +30,6 @@ HTML/CSS – front-end interface
 
 Render – hosting platform
 
-Installation (Local)
-
-Clone the repository:
-
-git clone <your-repo-url>
-cd project
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-Run the app:
-
-python app.py
-
-Open your browser at http://127.0.0.1:5000/
-
 **Usage**
 
 Enter patient feature values in the web form
